@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/10/7 23:45:49。
+     1>项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\PrimRestart\PrimRestart.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TC /errorReport:prompt primrestart.c
+         primrestart.c
+     1>primrestart.c(130): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\x64\Release\PrimRestart.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\x64\Release\PrimRestart.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\x64\Release\PrimRestart.lib" /MACHINE:X64 x64\Release\primrestart.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“freeglut_static.lib”
+     1>已完成生成项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\PrimRestart\PrimRestart.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.26

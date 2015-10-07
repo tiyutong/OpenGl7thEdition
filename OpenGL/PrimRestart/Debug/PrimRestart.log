@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/10/8 1:23:34。
+     1>项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\PrimRestart\PrimRestart.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt primrestart.cpp
+         primrestart.cpp
+     1>c:\users\xinma\documents\github\opengl7thedition\opengl\primrestart\primrestart.cpp(34): warning C4101: “indices”: 未引用的局部变量
+     1>c:\users\xinma\documents\github\opengl7thedition\opengl\primrestart\primrestart.cpp(33): warning C4101: “vertices”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Debug\PrimRestart.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\GL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Debug\PrimRestart.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Debug\PrimRestart.lib" /MACHINE:X86 /NODEFAULTLIB:"libcmt.lib" Debug\primrestart.obj
+         freeglut_static.lib(freeglut_init.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+     1>primrestart.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+         正在生成代码
+         已完成代码的生成
+     1>glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         PrimRestart.vcxproj -> C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Debug\PrimRestart.exe
+     1>已完成生成项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\PrimRestart\PrimRestart.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.69

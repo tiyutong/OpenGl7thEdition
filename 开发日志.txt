@@ -1,0 +1,6 @@
+20151008
+1.运行PrimRestart 工程时提示 0xc000007b错误：
+解决方法：glew改用静态库 
+#pragma comment(lib, "glew32s.lib")
+提示0xC0000005: 执行位置 0x00000000 时发生访问冲突 错误：
+将工程改为release 模式，得到正确结果
