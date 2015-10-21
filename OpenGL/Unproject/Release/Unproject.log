@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/10/21 22:22:23。
+     1>项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Unproject\Unproject.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\Unproject.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\GL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\Unproject.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\Unproject.lib" /MACHINE:X86 /SAFESEH Release\unproject.obj
+         正在生成代码
+         All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         已完成代码的生成
+         Unproject.vcxproj -> C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\Unproject.exe
+     1>已完成生成项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Unproject\Unproject.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.09
