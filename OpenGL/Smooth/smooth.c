@@ -52,6 +52,7 @@ void init(void)
 {
    glClearColor (0.0, 0.0, 0.0, 0.0);
    glShadeModel (GL_SMOOTH);
+   //glShadeModel(GL_FLAT);
 }
 
 void triangle(void)
@@ -63,9 +64,10 @@ void triangle(void)
    glBegin (GL_TRIANGLES);
   glColor3f (1.0, 0.0, 0.0);
    glVertex2f (5.0, 5.0);
-  glColor3f (0.0, 1.0, 0.0);
 
+  glColor3f (0.0, 1.0, 0.0);
    glVertex2f (25.0, 5.0);
+
    glColor3f (0.0, 0.0, 1.0);
    glVertex2f (5.0, 25.0);
    glEnd();
