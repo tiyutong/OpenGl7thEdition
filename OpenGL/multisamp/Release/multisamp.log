@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/10/27 22:31:58。
+     1>项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\multisamp\multisamp.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt multisamp.c
+         multisamp.c
+     1>multisamp.c(86): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>multisamp.c(88): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>multisamp.c(90): warning C4305: “函数”: 从“double”到“GLfloat”截断
+     1>multisamp.c(91): warning C4305: “函数”: 从“double”到“GLfloat”截断
+     1>multisamp.c(96): warning C4305: “函数”: 从“double”到“GLfloat”截断
+     1>multisamp.c(97): warning C4305: “函数”: 从“double”到“GLfloat”截断
+     1>multisamp.c(109): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>multisamp.c(110): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>multisamp.c(111): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>multisamp.c(112): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\multisamp.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\GL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\multisamp.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\multisamp.lib" /MACHINE:X86 /SAFESEH Release\multisamp.obj
+         正在生成代码
+         All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         已完成代码的生成
+         multisamp.vcxproj -> C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\Release\multisamp.exe
+     1>已完成生成项目“C:\Users\xinma\Documents\GitHub\OpenGl7thEdition\OpenGL\multisamp\multisamp.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.72
